@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>PSD to HTML</title>
+    <style>
+        .container{
+            width: 100%
+            max-width: 970px;
+            margin: 0 auto;
+        }
+        .hero-image{
+            background: url(cover.jpg);
+            padding: 155px 0;
+            text-align: center;
+            background-size: cover;
+            height: 110px;   
+        }
+        .hero-image h1{
+            font-size: 72px;
+            font-family:Roboto;
+            color: #ffffff;
+
+        }
+        .text-block{
+            font-size: 18px;
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 15px;
+            color: #373737;
+            text-align: center;
+            padding: 25px 50px;
+            background-color: #ededed;
+            margin: 30px 0;
+
+        }
+        .copyright{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 18px;
+            text-align: center;
+            color: #ffffff;
+            background-color: #4e4e4e;
+            padding: 0.008.9px;
+            height: 35px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="hero-image">
+            <h1>PSD to HTML</h1>
+        </div>
+        <div class="text-block">
+            <p>
+                Paris (French pronunciation: ​[paʁi] (About this sound listen)) is the capital and most populous city of France, with an area of 105 square kilometres (41 square miles) and a population of 2,206,488.[5][6] Since the 17th century, Paris has been one of Europe's major centres of finance, commerce, fashion, science, music, and painting. The Paris Region had a GDP of €681 billion (US$850 billion) in 2016, accounting for 31 per cent of the GDP of France.[7] In 2013–2014, the Paris Region had the third-highest GDP in the world and the largest regional GDP in the EU. According to the Economist Intelligence Unit Worldwide Cost of Living Survey in 2018, Paris was the second-most expensive city in the world, behind Singapore and ahead of Zurich, Hong Kong, Oslo and Geneva.[8] 
+            </p>
+        </div>
+        <div class="copyright">
+            <p>
+               © Copyright 2018 by Nahid
+            </p>
+        </div>
+    </div>
+</body>
+</html>
